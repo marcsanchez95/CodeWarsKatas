@@ -12,10 +12,8 @@ public class Main {
             replaced.setCharAt(i, '#');
         }
 
-        String strModified = replaced.toString();
 
-
-        return strModified;
+        return replaced.toString();
     }
 }
 
